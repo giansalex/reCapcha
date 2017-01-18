@@ -1,8 +1,8 @@
 <?php
 require_once __DIR__ . '/../vendor/autoload.php';
 // Register API keys at https://www.google.com/recaptcha/admin
-$siteKey = '6LfPBxEUAAAAACYOAAh3ZVV82UH40jb5FdQumT78';
-$secret = '6LfPBxEUAAAAAMLfc8g0Xse4PVRfcJUkmddPa4La';
+$siteKey = ''; // get in google recaptcha 
+$secret = '';
 // reCAPTCHA supported 40+ languages listed here: https://developers.google.com/recaptcha/docs/language
 $lang = 'en';
 ?>
